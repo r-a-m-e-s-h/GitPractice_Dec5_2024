@@ -1,0 +1,18 @@
+Hi Sir,
+
+My name is Rameshbabu, and I'm from Chennai. I completed my Master of Computer Applications (MCA) from Annamalai University. I have 5 years of experience in software testing, with 3.5 years in automation testing and 1.5 years in manual testing.
+
+Currently, I am working at Cognizant Technology Solutions (CTS) on the Optum Insurance project. In this project, we follow Agile methodology with a 2-week sprint cycle. We utilize a hybrid framework that combines TestNG, Page Object Model (POM), Data-Driven Testing, and BDD with Cucumber to ensure comprehensive test coverage and efficiency.
+
+In my role, I am responsible for designing and maintaining automated test scripts, executing test cases, and ensuring the quality of the software product. I also actively participate in sprint planning, daily stand-ups, and retrospectives to align our testing efforts with the development process.
+
+Our project uses several tools to streamline our workflow:
+
+JIRA for defect management and tracking.
+Git for source code management and version control.
+Maven as our build tool.
+Jenkins for continuous integration and continuous deployment (CI/CD).
+Postman for API testing.
+One of my significant achievements in this project was enhancing our test automation framework, which led to a 30% reduction in test execution time and improved the overall efficiency of our testing process.
+
+I am proficient in Java, Selenium, TestNG, and Cucumber, and I have hands-on experience with CI/CD pipelines, API testing, and Agile methodologies. 
