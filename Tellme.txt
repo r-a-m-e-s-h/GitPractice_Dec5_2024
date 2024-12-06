@@ -16,3 +16,7 @@ Postman for API testing.
 One of my significant achievements in this project was enhancing our test automation framework, which led to a 30% reduction in test execution time and improved the overall efficiency of our testing process.
 
 I am proficient in Java, Selenium, TestNG, and Cucumber, and I have hands-on experience with CI/CD pipelines, API testing, and Agile methodologies. 
+
+
+
+I'm looking for a job change.
